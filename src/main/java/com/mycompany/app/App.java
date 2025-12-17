@@ -21,6 +21,8 @@ public class App {
     private static void greetUser(String name) {
         System.out.println("Hello, " + name + " 👋");
         System.out.println("Welcome to Jenkins + Maven Demo");
+        System.out.println("Welcome to DevOps CA-2 Demo");
+
     }
 
     private static void showDateTime() {
